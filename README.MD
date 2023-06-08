@@ -1,0 +1,1 @@
+>Using  npm start -- --tunnel. Unable to load dev environment on my system using npm start or npx expo start. --tunnel uses Expo Go servers instead of LAN connection to connect device to code editor. 
